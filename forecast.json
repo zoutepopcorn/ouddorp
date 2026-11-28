@@ -1,0 +1,285 @@
+{
+  "updatedAt": "2026-11-28T16:47:44.453Z",
+  "forecasts": {
+    "2026-11-28": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "ZO",
+          "max_wind_speed_kts": 22,
+          "wind_gusts_kts": 27,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "HW": "0409"
+        },
+        {
+          "LW": "1002"
+        },
+        {
+          "HW": "1630"
+        },
+        {
+          "LW": "2232"
+        }
+      ]
+    },
+    "2026-11-29": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "ZW",
+          "max_wind_speed_kts": 16,
+          "wind_gusts_kts": 20,
+          "wave_height_m": 0
+        },
+        {
+          "direction": "NW",
+          "max_wind_speed_kts": 12,
+          "wind_gusts_kts": 15,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "HW": "0500"
+        },
+        {
+          "LW": "1058"
+        },
+        {
+          "HW": "1724"
+        },
+        {
+          "LW": "2333"
+        }
+      ]
+    },
+    "2026-11-30": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "Z",
+          "max_wind_speed_kts": 18,
+          "wind_gusts_kts": 24,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "HW": "0557"
+        },
+        {
+          "LW": "1159"
+        },
+        {
+          "HW": "1828"
+        }
+      ]
+    },
+    "2026-12-01": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "Z",
+          "max_wind_speed_kts": 21,
+          "wind_gusts_kts": 30,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "LW": "0043"
+        },
+        {
+          "HW": "0702"
+        },
+        {
+          "LW": "1306"
+        },
+        {
+          "HW": "1940"
+        }
+      ]
+    },
+    "2026-12-02": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "N",
+          "max_wind_speed_kts": 23,
+          "wind_gusts_kts": 28,
+          "wave_height_m": 0
+        },
+        {
+          "direction": "Z",
+          "max_wind_speed_kts": 22,
+          "wind_gusts_kts": 34,
+          "wave_height_m": 0
+        },
+        {
+          "direction": "ZW",
+          "max_wind_speed_kts": 23,
+          "wind_gusts_kts": 35,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "LW": "0155"
+        },
+        {
+          "HW": "0810"
+        },
+        {
+          "LW": "1416"
+        },
+        {
+          "HW": "2053"
+        }
+      ]
+    },
+    "2026-12-03": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "N",
+          "max_wind_speed_kts": 7,
+          "wind_gusts_kts": 8,
+          "wave_height_m": 0
+        },
+        {
+          "direction": "NW",
+          "max_wind_speed_kts": 9,
+          "wind_gusts_kts": 10,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "LW": "0308"
+        },
+        {
+          "HW": "0922"
+        },
+        {
+          "LW": "1531"
+        },
+        {
+          "HW": "2205"
+        }
+      ]
+    },
+    "2026-12-04": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "NO",
+          "max_wind_speed_kts": 12,
+          "wind_gusts_kts": 17,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "LW": "0439"
+        },
+        {
+          "HW": "1031"
+        },
+        {
+          "LW": "1652"
+        },
+        {
+          "HW": "2306"
+        }
+      ]
+    },
+    "2026-12-05": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "NO",
+          "max_wind_speed_kts": 13,
+          "wind_gusts_kts": 16,
+          "wave_height_m": 0
+        },
+        {
+          "direction": "O",
+          "max_wind_speed_kts": 11,
+          "wind_gusts_kts": 14,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "LW": "0532"
+        },
+        {
+          "HW": "1127"
+        },
+        {
+          "LW": "1748"
+        },
+        {
+          "HW": "2358"
+        }
+      ]
+    },
+    "2026-12-06": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "NO",
+          "max_wind_speed_kts": 13,
+          "wind_gusts_kts": 14,
+          "wave_height_m": 0
+        },
+        {
+          "direction": "O",
+          "max_wind_speed_kts": 13,
+          "wind_gusts_kts": 15,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "LW": "0609"
+        },
+        {
+          "HW": "1217"
+        },
+        {
+          "LW": "1830"
+        }
+      ]
+    },
+    "2026-12-07": {
+      "max_wave_height_m": 0,
+      "wind_summary": [
+        {
+          "direction": "O",
+          "max_wind_speed_kts": 11,
+          "wind_gusts_kts": 13,
+          "wave_height_m": 0
+        }
+      ],
+      "tides": [
+        {
+          "HW": "0045"
+        },
+        {
+          "LW": "0645"
+        },
+        {
+          "HW": "1302"
+        },
+        {
+          "LW": "1909"
+        }
+      ]
+    }
+  }
+}
